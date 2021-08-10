@@ -1,0 +1,38 @@
+12/01/2020 11:19:35 AM - AgePage - INFO: Element found with locator: year1 and  locatorType: id
+12/01/2020 11:19:35 AM - AgePage - INFO: Sent data on element with locator: year1 locatorType: id
+12/01/2020 11:19:35 AM - AgePage - INFO: Element found with locator: year2 and  locatorType: id
+12/01/2020 11:19:35 AM - AgePage - INFO: Sent data on element with locator: year2 locatorType: id
+12/01/2020 11:19:35 AM - AgePage - INFO: Element found with locator: year3 and  locatorType: id
+12/01/2020 11:19:35 AM - AgePage - INFO: Sent data on element with locator: year3 locatorType: id
+12/01/2020 11:19:35 AM - AgePage - INFO: Element found with locator: year4 and  locatorType: id
+12/01/2020 11:19:35 AM - AgePage - INFO: Sent data on element with locator: year4 locatorType: id
+12/01/2020 11:19:36 AM - AgePage - INFO: Element found with locator: month1 and  locatorType: id
+12/01/2020 11:19:36 AM - AgePage - INFO: Sent data on element with locator: month1 locatorType: id
+12/01/2020 11:19:36 AM - AgePage - INFO: Element found with locator: month2 and  locatorType: id
+12/01/2020 11:19:36 AM - AgePage - INFO: Sent data on element with locator: month2 locatorType: id
+12/01/2020 11:19:36 AM - AgePage - INFO: Element found with locator: day1 and  locatorType: id
+12/01/2020 11:19:36 AM - AgePage - INFO: Sent data on element with locator: day1 locatorType: id
+12/01/2020 11:19:36 AM - AgePage - INFO: Element found with locator: day2 and  locatorType: id
+12/01/2020 11:19:36 AM - AgePage - INFO: Sent data on element with locator: day2 locatorType: id
+12/01/2020 11:19:36 AM - StoryCarouselPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/01/2020 11:19:38 AM - StoryCarouselPage - INFO: Element appeared on the web page
+12/01/2020 11:19:38 AM - StoryCarouselPage - INFO: Element found with locator: //*[@id='AppContainer']/div[2]/div[2]/div[3]/a[5] and  locatorType: xpath
+12/01/2020 11:19:39 AM - StoryCarouselPage - INFO: Clicked on element with locator: //*[@id='AppContainer']/div[2]/div[2]/div[3]/a[5] locatorType: xpath
+12/01/2020 11:19:39 AM - StoryCarouselPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/01/2020 11:19:42 AM - StoryCarouselPage - INFO: Element appeared on the web page
+12/01/2020 11:19:42 AM - StoryCarouselPage - INFO: Element found with locator: //*[@id='main-content']/div/div/a/div[3]/div/div/button and  locatorType: xpath
+12/01/2020 11:19:42 AM - StoryCarouselPage - INFO: Clicked on element with locator: //*[@id='main-content']/div/div/a/div[3]/div/div/button locatorType: xpath
+12/01/2020 11:19:42 AM - StoryCarouselPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/01/2020 11:19:43 AM - StoryCarouselPage - INFO: Element appeared on the web page
+12/01/2020 11:19:43 AM - StoryCarouselPage - INFO: Element found with locator: story0 and  locatorType: id
+12/01/2020 11:19:43 AM - StoryCarouselPage - INFO: Clicked on element with locator: story0 locatorType: id
+12/01/2020 11:19:43 AM - StoryCarouselPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/01/2020 11:19:43 AM - StoryCarouselPage - INFO: Element appeared on the web page
+12/01/2020 11:19:43 AM - StoryCarouselPage - INFO: Element found with locator: //*[@id='story0']/div/div[2]/button and  locatorType: xpath
+12/01/2020 11:19:44 AM - StoryCarouselPage - INFO: Clicked on element with locator: //*[@id='story0']/div/div[2]/button locatorType: xpath
+12/01/2020 11:19:44 AM - StoryCarouselPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/01/2020 11:19:44 AM - StoryCarouselPage - INFO: Element appeared on the web page
+12/01/2020 11:19:44 AM - StoryCarouselPage - INFO: Element found with locator: //*[@id='AppContainer']/div[2]/div[2]/div[3]/a[5] and  locatorType: xpath
+12/01/2020 11:19:44 AM - StoryCarouselPage - INFO: Element is displayed with locator: //*[@id='AppContainer']/div[2]/div[2]/div[3]/a[5] locatorType: xpath
+12/01/2020 11:19:44 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Story Slide X Closes Slide
+12/01/2020 11:19:44 AM - TestStatus - INFO: test_SlideXIconCloses ### TEST SUCCESSFUL

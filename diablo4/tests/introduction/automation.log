@@ -1,0 +1,27 @@
+12/01/2020 11:23:17 AM - AgePage - INFO: Element found with locator: year1 and  locatorType: id
+12/01/2020 11:23:18 AM - AgePage - INFO: Sent data on element with locator: year1 locatorType: id
+12/01/2020 11:23:18 AM - AgePage - INFO: Element found with locator: year2 and  locatorType: id
+12/01/2020 11:23:18 AM - AgePage - INFO: Sent data on element with locator: year2 locatorType: id
+12/01/2020 11:23:18 AM - AgePage - INFO: Element found with locator: year3 and  locatorType: id
+12/01/2020 11:23:18 AM - AgePage - INFO: Sent data on element with locator: year3 locatorType: id
+12/01/2020 11:23:18 AM - AgePage - INFO: Element found with locator: year4 and  locatorType: id
+12/01/2020 11:23:18 AM - AgePage - INFO: Sent data on element with locator: year4 locatorType: id
+12/01/2020 11:23:18 AM - AgePage - INFO: Element found with locator: month1 and  locatorType: id
+12/01/2020 11:23:18 AM - AgePage - INFO: Sent data on element with locator: month1 locatorType: id
+12/01/2020 11:23:18 AM - AgePage - INFO: Element found with locator: month2 and  locatorType: id
+12/01/2020 11:23:18 AM - AgePage - INFO: Sent data on element with locator: month2 locatorType: id
+12/01/2020 11:23:18 AM - AgePage - INFO: Element found with locator: day1 and  locatorType: id
+12/01/2020 11:23:19 AM - AgePage - INFO: Sent data on element with locator: day1 locatorType: id
+12/01/2020 11:23:19 AM - AgePage - INFO: Element found with locator: day2 and  locatorType: id
+12/01/2020 11:23:19 AM - AgePage - INFO: Sent data on element with locator: day2 locatorType: id
+12/01/2020 11:23:19 AM - IntroPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/01/2020 11:23:30 AM - IntroPage - INFO: Element not appeared on the web page
+12/01/2020 11:23:33 AM - IntroPage - INFO: Element not found with locator: //*[@id='AppContainer']/div[5]/div/div[3]/div/div/button/div and  locatorType: xpath
+12/01/2020 11:23:33 AM - IntroPage - INFO: Cannot click on the element with locator: //*[@id='AppContainer']/div[5]/div/div[3]/div/div/button/div locatorType: xpath
+12/01/2020 11:23:33 AM - IntroPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/01/2020 11:23:43 AM - IntroPage - INFO: Element not appeared on the web page
+12/01/2020 11:23:46 AM - IntroPage - INFO: Element not found with locator: /html/body/div[2]/div/div[5]/div/div[5]/div[2]/div/iframe and  locatorType: xpath
+12/01/2020 11:23:46 AM - IntroPage - INFO: Element not displayed with locator: /html/body/div[2]/div/div[5]/div/div[5]/div[2]/div/iframe locatorType: xpath
+12/01/2020 11:23:46 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Play Icon Plays Video
+12/01/2020 11:23:49 AM - TestStatus - INFO: Screenshot save to directory: C:\development\automation\diablo4\base\../screenshots/Play Icon Plays Video.1606850626829.png
+12/01/2020 11:23:49 AM - TestStatus - ERROR: test_click_playIcon_video ### TEST FAILED

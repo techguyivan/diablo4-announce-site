@@ -1,0 +1,52 @@
+12/01/2020 11:00:31 AM - AgePage - INFO: Element found with locator: year1 and  locatorType: id
+12/01/2020 11:00:31 AM - AgePage - INFO: Sent data on element with locator: year1 locatorType: id
+12/01/2020 11:00:31 AM - AgePage - INFO: Element found with locator: year2 and  locatorType: id
+12/01/2020 11:00:32 AM - AgePage - INFO: Sent data on element with locator: year2 locatorType: id
+12/01/2020 11:00:32 AM - AgePage - INFO: Element found with locator: year3 and  locatorType: id
+12/01/2020 11:00:32 AM - AgePage - INFO: Sent data on element with locator: year3 locatorType: id
+12/01/2020 11:00:32 AM - AgePage - INFO: Element found with locator: year4 and  locatorType: id
+12/01/2020 11:00:32 AM - AgePage - INFO: Sent data on element with locator: year4 locatorType: id
+12/01/2020 11:00:32 AM - AgePage - INFO: Element found with locator: month1 and  locatorType: id
+12/01/2020 11:00:32 AM - AgePage - INFO: Sent data on element with locator: month1 locatorType: id
+12/01/2020 11:00:32 AM - AgePage - INFO: Element found with locator: month2 and  locatorType: id
+12/01/2020 11:00:32 AM - AgePage - INFO: Sent data on element with locator: month2 locatorType: id
+12/01/2020 11:00:32 AM - AgePage - INFO: Element found with locator: day1 and  locatorType: id
+12/01/2020 11:00:32 AM - AgePage - INFO: Sent data on element with locator: day1 locatorType: id
+12/01/2020 11:00:32 AM - AgePage - INFO: Element found with locator: day2 and  locatorType: id
+12/01/2020 11:00:32 AM - AgePage - INFO: Sent data on element with locator: day2 locatorType: id
+12/01/2020 11:00:32 AM - SignUpButtonPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/01/2020 11:00:34 AM - SignUpButtonPage - INFO: Element appeared on the web page
+12/01/2020 11:00:34 AM - SignUpButtonPage - INFO: Element found with locator: //*[@id='AppContainer']/div[2]/div[2]/div[3]/a[7] and  locatorType: xpath
+12/01/2020 11:00:34 AM - SignUpButtonPage - INFO: Clicked on element with locator: //*[@id='AppContainer']/div[2]/div[2]/div[3]/a[7] locatorType: xpath
+12/01/2020 11:00:34 AM - SignUpButtonPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/01/2020 11:00:38 AM - SignUpButtonPage - INFO: Element appeared on the web page
+12/01/2020 11:00:38 AM - SignUpButtonPage - INFO: Element found with locator: //*[@id='main-content']/div/div/div[2]/div/div[2]/div/div[1] and  locatorType: xpath
+12/01/2020 11:00:38 AM - SignUpButtonPage - INFO: Element is displayed with locator: //*[@id='main-content']/div/div/div[2]/div/div[2]/div/div[1] locatorType: xpath
+12/01/2020 11:00:38 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Sign Up Page Sign Up Button Displays
+12/01/2020 11:00:38 AM - TestStatus - INFO: test_signupSignUpButtonDisplays ### TEST SUCCESSFUL
+12/01/2020 11:16:39 AM - AgePage - INFO: Element found with locator: year1 and  locatorType: id
+12/01/2020 11:16:39 AM - AgePage - INFO: Sent data on element with locator: year1 locatorType: id
+12/01/2020 11:16:39 AM - AgePage - INFO: Element found with locator: year2 and  locatorType: id
+12/01/2020 11:16:39 AM - AgePage - INFO: Sent data on element with locator: year2 locatorType: id
+12/01/2020 11:16:39 AM - AgePage - INFO: Element found with locator: year3 and  locatorType: id
+12/01/2020 11:16:39 AM - AgePage - INFO: Sent data on element with locator: year3 locatorType: id
+12/01/2020 11:16:39 AM - AgePage - INFO: Element found with locator: year4 and  locatorType: id
+12/01/2020 11:16:39 AM - AgePage - INFO: Sent data on element with locator: year4 locatorType: id
+12/01/2020 11:16:40 AM - AgePage - INFO: Element found with locator: month1 and  locatorType: id
+12/01/2020 11:16:40 AM - AgePage - INFO: Sent data on element with locator: month1 locatorType: id
+12/01/2020 11:16:40 AM - AgePage - INFO: Element found with locator: month2 and  locatorType: id
+12/01/2020 11:16:40 AM - AgePage - INFO: Sent data on element with locator: month2 locatorType: id
+12/01/2020 11:16:40 AM - AgePage - INFO: Element found with locator: day1 and  locatorType: id
+12/01/2020 11:16:40 AM - AgePage - INFO: Sent data on element with locator: day1 locatorType: id
+12/01/2020 11:16:40 AM - AgePage - INFO: Element found with locator: day2 and  locatorType: id
+12/01/2020 11:16:41 AM - AgePage - INFO: Sent data on element with locator: day2 locatorType: id
+12/01/2020 11:16:41 AM - SignUpButtonPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/01/2020 11:16:42 AM - SignUpButtonPage - INFO: Element appeared on the web page
+12/01/2020 11:16:42 AM - SignUpButtonPage - INFO: Element found with locator: //*[@id='AppContainer']/div[2]/div[2]/div[3]/a[7] and  locatorType: xpath
+12/01/2020 11:16:43 AM - SignUpButtonPage - INFO: Clicked on element with locator: //*[@id='AppContainer']/div[2]/div[2]/div[3]/a[7] locatorType: xpath
+12/01/2020 11:16:43 AM - SignUpButtonPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/01/2020 11:16:46 AM - SignUpButtonPage - INFO: Element appeared on the web page
+12/01/2020 11:16:46 AM - SignUpButtonPage - INFO: Element found with locator: //*[@id='main-content']/div/div/div[2]/div/div[2]/div/div[1] and  locatorType: xpath
+12/01/2020 11:16:46 AM - SignUpButtonPage - INFO: Element is displayed with locator: //*[@id='main-content']/div/div/div[2]/div/div[2]/div/div[1] locatorType: xpath
+12/01/2020 11:16:46 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Sign Up Page Sign Up Button Displays
+12/01/2020 11:16:46 AM - TestStatus - INFO: test_signupSignUpButtonDisplays ### TEST SUCCESSFUL

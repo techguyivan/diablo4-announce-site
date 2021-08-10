@@ -1,0 +1,78 @@
+12/01/2020 11:12:27 AM - AgePage - INFO: Element found with locator: year1 and  locatorType: id
+12/01/2020 11:12:28 AM - AgePage - INFO: Sent data on element with locator: year1 locatorType: id
+12/01/2020 11:12:28 AM - AgePage - INFO: Element found with locator: year2 and  locatorType: id
+12/01/2020 11:12:28 AM - AgePage - INFO: Sent data on element with locator: year2 locatorType: id
+12/01/2020 11:12:28 AM - AgePage - INFO: Element found with locator: year3 and  locatorType: id
+12/01/2020 11:12:28 AM - AgePage - INFO: Sent data on element with locator: year3 locatorType: id
+12/01/2020 11:12:28 AM - AgePage - INFO: Element found with locator: year4 and  locatorType: id
+12/01/2020 11:12:28 AM - AgePage - INFO: Sent data on element with locator: year4 locatorType: id
+12/01/2020 11:12:28 AM - AgePage - INFO: Element found with locator: month1 and  locatorType: id
+12/01/2020 11:12:28 AM - AgePage - INFO: Sent data on element with locator: month1 locatorType: id
+12/01/2020 11:12:28 AM - AgePage - INFO: Element found with locator: month2 and  locatorType: id
+12/01/2020 11:12:28 AM - AgePage - INFO: Sent data on element with locator: month2 locatorType: id
+12/01/2020 11:12:28 AM - AgePage - INFO: Element found with locator: day1 and  locatorType: id
+12/01/2020 11:12:29 AM - AgePage - INFO: Sent data on element with locator: day1 locatorType: id
+12/01/2020 11:12:29 AM - AgePage - INFO: Element found with locator: day2 and  locatorType: id
+12/01/2020 11:12:29 AM - AgePage - INFO: Sent data on element with locator: day2 locatorType: id
+12/01/2020 11:12:31 AM - AgePage - INFO: Element found with locator: year1 and  locatorType: id
+12/01/2020 11:12:31 AM - AgePage - INFO: Sent data on element with locator: year1 locatorType: id
+12/01/2020 11:12:31 AM - AgePage - INFO: Element found with locator: year2 and  locatorType: id
+12/01/2020 11:12:31 AM - AgePage - INFO: Sent data on element with locator: year2 locatorType: id
+12/01/2020 11:12:31 AM - AgePage - INFO: Element found with locator: year3 and  locatorType: id
+12/01/2020 11:12:31 AM - AgePage - INFO: Sent data on element with locator: year3 locatorType: id
+12/01/2020 11:12:31 AM - AgePage - INFO: Element found with locator: year4 and  locatorType: id
+12/01/2020 11:12:31 AM - AgePage - INFO: Sent data on element with locator: year4 locatorType: id
+12/01/2020 11:12:31 AM - AgePage - INFO: Element found with locator: month1 and  locatorType: id
+12/01/2020 11:12:31 AM - AgePage - INFO: Sent data on element with locator: month1 locatorType: id
+12/01/2020 11:12:31 AM - AgePage - INFO: Element found with locator: month2 and  locatorType: id
+12/01/2020 11:12:31 AM - AgePage - INFO: Sent data on element with locator: month2 locatorType: id
+12/01/2020 11:12:31 AM - AgePage - INFO: Element found with locator: day1 and  locatorType: id
+12/01/2020 11:12:31 AM - AgePage - INFO: Sent data on element with locator: day1 locatorType: id
+12/01/2020 11:12:31 AM - AgePage - INFO: Element found with locator: day2 and  locatorType: id
+12/01/2020 11:12:31 AM - AgePage - INFO: Sent data on element with locator: day2 locatorType: id
+12/01/2020 11:12:31 AM - AgePage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/01/2020 11:12:42 AM - AgePage - INFO: Element not appeared on the web page
+12/01/2020 11:12:45 AM - AgePage - INFO: Element not found with locator: //*[@id='AppContainer']/div[1]/div[2]/div/h2 and  locatorType: xpath
+12/01/2020 11:12:45 AM - AgePage - INFO: Element not displayed with locator: //*[@id='AppContainer']/div[1]/div[2]/div/h2 locatorType: xpath
+12/01/2020 11:12:45 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Invalid Age Verification
+12/01/2020 11:12:47 AM - TestStatus - INFO: Screenshot save to directory: C:\development\automation\diablo4\base\../screenshots/Invalid Age Verification.1606849965637.png
+12/01/2020 11:12:47 AM - TestStatus - ERROR: test_invalidAge ### TEST FAILED
+12/02/2020 12:39:59 PM - AgePage - INFO: Element found with locator: year1 and  locatorType: id
+12/02/2020 12:40:00 PM - AgePage - INFO: Sent data on element with locator: year1 locatorType: id
+12/02/2020 12:40:00 PM - AgePage - INFO: Element found with locator: year2 and  locatorType: id
+12/02/2020 12:40:00 PM - AgePage - INFO: Sent data on element with locator: year2 locatorType: id
+12/02/2020 12:40:00 PM - AgePage - INFO: Element found with locator: year3 and  locatorType: id
+12/02/2020 12:40:00 PM - AgePage - INFO: Sent data on element with locator: year3 locatorType: id
+12/02/2020 12:40:00 PM - AgePage - INFO: Element found with locator: year4 and  locatorType: id
+12/02/2020 12:40:00 PM - AgePage - INFO: Sent data on element with locator: year4 locatorType: id
+12/02/2020 12:40:00 PM - AgePage - INFO: Element found with locator: month1 and  locatorType: id
+12/02/2020 12:40:00 PM - AgePage - INFO: Sent data on element with locator: month1 locatorType: id
+12/02/2020 12:40:00 PM - AgePage - INFO: Element found with locator: month2 and  locatorType: id
+12/02/2020 12:40:00 PM - AgePage - INFO: Sent data on element with locator: month2 locatorType: id
+12/02/2020 12:40:00 PM - AgePage - INFO: Element found with locator: day1 and  locatorType: id
+12/02/2020 12:40:01 PM - AgePage - INFO: Sent data on element with locator: day1 locatorType: id
+12/02/2020 12:40:01 PM - AgePage - INFO: Element found with locator: day2 and  locatorType: id
+12/02/2020 12:40:01 PM - AgePage - INFO: Sent data on element with locator: day2 locatorType: id
+12/02/2020 12:40:03 PM - AgePage - INFO: Element found with locator: year1 and  locatorType: id
+12/02/2020 12:40:03 PM - AgePage - INFO: Sent data on element with locator: year1 locatorType: id
+12/02/2020 12:40:03 PM - AgePage - INFO: Element found with locator: year2 and  locatorType: id
+12/02/2020 12:40:03 PM - AgePage - INFO: Sent data on element with locator: year2 locatorType: id
+12/02/2020 12:40:03 PM - AgePage - INFO: Element found with locator: year3 and  locatorType: id
+12/02/2020 12:40:03 PM - AgePage - INFO: Sent data on element with locator: year3 locatorType: id
+12/02/2020 12:40:03 PM - AgePage - INFO: Element found with locator: year4 and  locatorType: id
+12/02/2020 12:40:03 PM - AgePage - INFO: Sent data on element with locator: year4 locatorType: id
+12/02/2020 12:40:03 PM - AgePage - INFO: Element found with locator: month1 and  locatorType: id
+12/02/2020 12:40:03 PM - AgePage - INFO: Sent data on element with locator: month1 locatorType: id
+12/02/2020 12:40:03 PM - AgePage - INFO: Element found with locator: month2 and  locatorType: id
+12/02/2020 12:40:03 PM - AgePage - INFO: Sent data on element with locator: month2 locatorType: id
+12/02/2020 12:40:03 PM - AgePage - INFO: Element found with locator: day1 and  locatorType: id
+12/02/2020 12:40:03 PM - AgePage - INFO: Sent data on element with locator: day1 locatorType: id
+12/02/2020 12:40:03 PM - AgePage - INFO: Element found with locator: day2 and  locatorType: id
+12/02/2020 12:40:03 PM - AgePage - INFO: Sent data on element with locator: day2 locatorType: id
+12/02/2020 12:40:03 PM - AgePage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+12/02/2020 12:40:14 PM - AgePage - INFO: Element not appeared on the web page
+12/02/2020 12:40:17 PM - AgePage - INFO: Element not found with locator: //*[@id='AppContainer']/div[1]/div[2]/div/h2 and  locatorType: xpath
+12/02/2020 12:40:17 PM - AgePage - INFO: Element not displayed with locator: //*[@id='AppContainer']/div[1]/div[2]/div/h2 locatorType: xpath
+12/02/2020 12:40:17 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Invalid Age Verification
+12/02/2020 12:40:19 PM - TestStatus - INFO: Screenshot save to directory: C:\development\automation\diablo4\base\../screenshots/Invalid Age Verification.1606941617673.png
+12/02/2020 12:40:19 PM - TestStatus - ERROR: test_invalidAge ### TEST FAILED
